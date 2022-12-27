@@ -1,2 +1,3 @@
 google-api-python-client
 oauth2client==4.1.3
+google-cloud-compute==1.8.0
